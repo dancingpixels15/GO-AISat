@@ -1,2 +1,2 @@
 # GO-AIS
-GO-AIS : An open-source global scale AIS dataset 
+GO-AIS : An open-source global scale AIS dataset.
